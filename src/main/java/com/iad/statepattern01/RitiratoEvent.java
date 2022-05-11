@@ -1,5 +1,5 @@
 package com.iad.statepattern01;
 
-public class RitiratoEvent extends Event{
+public class RitiratoEvent implements Event{
 
 }

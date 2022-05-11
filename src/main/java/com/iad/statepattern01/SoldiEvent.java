@@ -1,6 +1,6 @@
 package com.iad.statepattern01;
 
-public class SoldiEvent extends Event {
+public class SoldiEvent implements Event {
 
     private double importo;
 

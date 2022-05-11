@@ -7,6 +7,7 @@ import com.iad.statepattern01.CaffeProntoEvent;
 import com.iad.statepattern01.RestoEvent;
 import com.iad.statepattern01.RitiratoEvent;
 import com.iad.statepattern01.SoldiEvent;
+import com.iad.statepattern01.State;
 
 /**
  *
@@ -14,7 +15,7 @@ import com.iad.statepattern01.SoldiEvent;
  */
 public class DistributoreAutomaticoGrafico extends javax.swing.JFrame implements CompagnoDellAutoma {
 
-    private AutomatonGui automa = new AutomatonGui(this);
+    private State automa = new AutomatonGui(this);
 
     /**
      * Creates new form DistributoreAutomaticoGrafico

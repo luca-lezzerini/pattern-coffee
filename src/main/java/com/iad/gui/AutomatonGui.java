@@ -1,6 +1,5 @@
 package com.iad.gui;
 
-import com.iad.gui.CompagnoDellAutoma;
 import com.iad.statepattern01.*;
 
 public class AutomatonGui implements State {

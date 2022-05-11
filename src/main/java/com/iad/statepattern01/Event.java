@@ -1,10 +1,10 @@
 package com.iad.statepattern01;
 
-public class Event {
+public interface Event {
 
-    @Override
-    public String toString() {
-        return "Event{" + getClass().getName() + '}';
-    }
+//    @Override
+//    public String toString() {
+//        return "Event{" + getClass().getName() + '}';
+//    }
 
 }
