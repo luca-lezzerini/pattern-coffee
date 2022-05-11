@@ -1,0 +1,12 @@
+com\iad\statepattern01\Event.class
+com\iad\statepattern01\State.class
+com\iad\statepattern01\RestoEvent.class
+com\iad\statepattern01\RitiratoEvent.class
+com\iad\statepattern01\SoldiEvent.class
+com\iad\statepattern01\Automaton$DaRitirareState.class
+com\iad\statepattern01\CaffeEvent.class
+com\iad\statepattern01\Automaton$PreparazioneCaffèState.class
+com\iad\statepattern01\CaffeProntoEvent.class
+com\iad\statepattern01\Automaton$AttesaState.class
+com\iad\statepattern01\StatePattern01.class
+com\iad\statepattern01\Automaton.class
